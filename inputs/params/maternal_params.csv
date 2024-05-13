@@ -1,0 +1,9 @@
+parameter
+n_arms_list,1000
+budget_frac_list,0.1,0.3
+policy_list,No Action Policy,Random Policy,Myopic Policy,Round Robin Policy,Whittle Index Policy,Equitable LP Policy: MMR
+n_trials,5
+horizon_list,3
+environment_name,Maternal Health Environment
+base_seed,2
+stream_map,1
