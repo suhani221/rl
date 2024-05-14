@@ -3,7 +3,7 @@ from newstate import new_state_transition
 import numpy as np 
 from chooseproject import choose_projects
 from initilisation import initial_1
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 
 
